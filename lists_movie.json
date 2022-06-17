@@ -3,25 +3,25 @@
     {
         "id_list":"8207363",
         "name":"Favoritos de Romance",
-        "image":"https://www.themoviedb.org/t/p/w500_and_h282_multi_faces_filter(moderate,nudity,92)/tcZi0LQc5iu2u6i5aOWyj9NBBvl.jpg",
+        "image":"/tcZi0LQc5iu2u6i5aOWyj9NBBvl.jpg",
         "genres":[{"id":718032},{"id":718032},{"id":718032},{"id":718032}]
     },
     {
         "id_list":"8191963",
         "name":"Melhores de 2021",
-        "image":"https://www.themoviedb.org/t/p/w500_and_h282_multi_faces_filter(moderate,nudity,92)/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+        "image":"/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
         "genres":[{"id":718032},{"id":718032},{"id":718032},{"id":718032}]
     },
     {
         "id_list":"8207365",
         "name":"Para ver com amigos",
-        "image":"https://www.themoviedb.org/t/p/w500_and_h282_multi_faces_filter(moderate,nudity,92)/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
+        "image":"/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
         "genres":[{"id":718032},{"id":718032},{"id":718032},{"id":718032}]
     },
     {
         "id_list":"8195587",
         "name":"Livres",
-        "image":"https://www.themoviedb.org/t/p/w500_and_h282_multi_faces_filter(moderate,nudity,92)/dvDRijp6EQhGRPFNym4WCINtW73.jpg",
+        "image":"/dvDRijp6EQhGRPFNym4WCINtW73.jpg",
         "genres":[{"id":718032},{"id":718032},{"id":718032},{"id":718032}]
     }
 ]}
